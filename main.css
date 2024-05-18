@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: darkkhaki;
+}
+
+.first-site {
+    text-decoration: none;
+    color: lightgreen;
+    border: 10px solid royalblue;
+    border-radius: 15px;
+    background-color: royalblue;
+    margin-bottom: 100px;
+}
+
+.styles {
+    text-decoration: none;
+    color: lightgreen;
+    border: 10px solid royalblue;
+    border-radius: 15px;
+    background-color: royalblue;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+.social {
+    margin: 10px;
+}
+
+.position {
+    text-decoration: none;
+    color: lightgreen;
+    border: 10px solid royalblue;
+    border-radius: 15px;
+    background-color: royalblue;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+header {
+    background-color: aqua;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    margin-top: 100px;
+}
